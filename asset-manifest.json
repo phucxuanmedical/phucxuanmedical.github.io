@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/phucxuanweb/static/css/main.5f361e03.chunk.css",
-    "main.js": "/phucxuanweb/static/js/main.904c1519.chunk.js",
-    "main.js.map": "/phucxuanweb/static/js/main.904c1519.chunk.js.map",
+    "main.js": "/phucxuanweb/static/js/main.e5d5da3b.chunk.js",
+    "main.js.map": "/phucxuanweb/static/js/main.e5d5da3b.chunk.js.map",
     "runtime-main.js": "/phucxuanweb/static/js/runtime-main.f07cb012.js",
     "runtime-main.js.map": "/phucxuanweb/static/js/runtime-main.f07cb012.js.map",
     "static/js/2.59af566d.chunk.js": "/phucxuanweb/static/js/2.59af566d.chunk.js",
     "static/js/2.59af566d.chunk.js.map": "/phucxuanweb/static/js/2.59af566d.chunk.js.map",
     "index.html": "/phucxuanweb/index.html",
-    "precache-manifest.6d588b2408beeecc3e3b9c7b1eb805d1.js": "/phucxuanweb/precache-manifest.6d588b2408beeecc3e3b9c7b1eb805d1.js",
+    "precache-manifest.1b7a0643c9ae5ce4f0d8cf51a496fac7.js": "/phucxuanweb/precache-manifest.1b7a0643c9ae5ce4f0d8cf51a496fac7.js",
     "service-worker.js": "/phucxuanweb/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/phucxuanweb/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.59af566d.chunk.js.LICENSE.txt": "/phucxuanweb/static/js/2.59af566d.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f07cb012.js",
     "static/js/2.59af566d.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.904c1519.chunk.js"
+    "static/js/main.e5d5da3b.chunk.js"
   ]
 }
