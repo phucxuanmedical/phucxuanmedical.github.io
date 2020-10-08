@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/phucxuan/static/css/main.5f361e03.chunk.css",
-    "main.js": "/phucxuan/static/js/main.dfc84510.chunk.js",
-    "main.js.map": "/phucxuan/static/js/main.dfc84510.chunk.js.map",
-    "runtime-main.js": "/phucxuan/static/js/runtime-main.b9d657a1.js",
-    "runtime-main.js.map": "/phucxuan/static/js/runtime-main.b9d657a1.js.map",
-    "static/js/2.59af566d.chunk.js": "/phucxuan/static/js/2.59af566d.chunk.js",
-    "static/js/2.59af566d.chunk.js.map": "/phucxuan/static/js/2.59af566d.chunk.js.map",
-    "index.html": "/phucxuan/index.html",
-    "precache-manifest.e057967bfcf5a621289950a2f2bc074c.js": "/phucxuan/precache-manifest.e057967bfcf5a621289950a2f2bc074c.js",
-    "service-worker.js": "/phucxuan/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/phucxuan/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.59af566d.chunk.js.LICENSE.txt": "/phucxuan/static/js/2.59af566d.chunk.js.LICENSE.txt",
-    "static/media/aboutUs.txt": "/phucxuan/static/media/aboutUs.66b35f6a.txt"
+    "main.css": "/phucxuanweb/static/css/main.5f361e03.chunk.css",
+    "main.js": "/phucxuanweb/static/js/main.904c1519.chunk.js",
+    "main.js.map": "/phucxuanweb/static/js/main.904c1519.chunk.js.map",
+    "runtime-main.js": "/phucxuanweb/static/js/runtime-main.f07cb012.js",
+    "runtime-main.js.map": "/phucxuanweb/static/js/runtime-main.f07cb012.js.map",
+    "static/js/2.59af566d.chunk.js": "/phucxuanweb/static/js/2.59af566d.chunk.js",
+    "static/js/2.59af566d.chunk.js.map": "/phucxuanweb/static/js/2.59af566d.chunk.js.map",
+    "index.html": "/phucxuanweb/index.html",
+    "precache-manifest.6d588b2408beeecc3e3b9c7b1eb805d1.js": "/phucxuanweb/precache-manifest.6d588b2408beeecc3e3b9c7b1eb805d1.js",
+    "service-worker.js": "/phucxuanweb/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/phucxuanweb/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.59af566d.chunk.js.LICENSE.txt": "/phucxuanweb/static/js/2.59af566d.chunk.js.LICENSE.txt",
+    "static/media/aboutUs.txt": "/phucxuanweb/static/media/aboutUs.66b35f6a.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9d657a1.js",
+    "static/js/runtime-main.f07cb012.js",
     "static/js/2.59af566d.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.dfc84510.chunk.js"
+    "static/js/main.904c1519.chunk.js"
   ]
 }
