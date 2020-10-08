@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/phucxuan/static/css/main.5f361e03.chunk.css",
+    "main.js": "/phucxuan/static/js/main.dfc84510.chunk.js",
+    "main.js.map": "/phucxuan/static/js/main.dfc84510.chunk.js.map",
+    "runtime-main.js": "/phucxuan/static/js/runtime-main.b9d657a1.js",
+    "runtime-main.js.map": "/phucxuan/static/js/runtime-main.b9d657a1.js.map",
+    "static/js/2.59af566d.chunk.js": "/phucxuan/static/js/2.59af566d.chunk.js",
+    "static/js/2.59af566d.chunk.js.map": "/phucxuan/static/js/2.59af566d.chunk.js.map",
+    "index.html": "/phucxuan/index.html",
+    "precache-manifest.e057967bfcf5a621289950a2f2bc074c.js": "/phucxuan/precache-manifest.e057967bfcf5a621289950a2f2bc074c.js",
+    "service-worker.js": "/phucxuan/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/phucxuan/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.59af566d.chunk.js.LICENSE.txt": "/phucxuan/static/js/2.59af566d.chunk.js.LICENSE.txt",
+    "static/media/aboutUs.txt": "/phucxuan/static/media/aboutUs.66b35f6a.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9d657a1.js",
+    "static/js/2.59af566d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dfc84510.chunk.js"
+  ]
+}
